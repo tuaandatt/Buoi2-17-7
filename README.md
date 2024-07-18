@@ -1,7 +1,8 @@
 # Buoi2-17-7
 ![Merge-Sort-Algorithm-(1)](https://github.com/user-attachments/assets/98f565da-d039-46a1-8621-c3f8ad299639)
 VIDEO DEMO https://drive.google.com/file/d/1LW2AbfdEii6UBSjk2Q9S0VMXMs7W7-62/view?usp=sharing
-![sddefault](https://github.com/user-attachments/assets/1cf45d9f-e357-44fa-bf05-bdda151fa0b8)
+![image](https://github.com/user-attachments/assets/cc64f8d9-8d9a-4d84-8c20-b1d7244c5050)
+
 
 VIDEO DEMO https://drive.google.com/file/d/1t1tRPTQidEWK4EheTr_6c_Ru09ix2rkf/view?usp=sharing
 
